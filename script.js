@@ -36,9 +36,7 @@ return response.json()
 
 
 })
-.catch((error)=>{"Error" = error
 
-})
 
 
 
