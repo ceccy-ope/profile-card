@@ -36,6 +36,9 @@ return response.json()
 
 
 })
+.catch((error) => {
+    console.log("Error:", error);
+  });
 
 
 
